@@ -1,3 +1,6 @@
+# def test_second_day():
+#     assert twelve_days(2) == "On the second day of Christmas"
+
 # 12days_python
 Twelve Days of Christmas song in Python
 
